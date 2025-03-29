@@ -213,17 +213,17 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://iili.io/3IMj01R.md.jpg",
+    "https://iili.io/3uDzHAB.md.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://iili.io/3IMNzAP.md.jpg",
+    "https://iili.io/3uDz99V.md.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://iili.io/3IMNYKv.md.jpg",
+    "https://iili.io/3uDz3oF.md.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
